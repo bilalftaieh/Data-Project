@@ -66,3 +66,11 @@ I explored the data using SQL and visualized relationships between key variables
 
 - **Pie Chart**: KSC LC-39A boasts the highest launch success rate, accounting for 41.7% of total successful launches.
 - **Scatter Plot**: The highest success rate was observed for a payload of 5300 kg within the Booster Version Category, specifically when payloads ranged between 2000 and 7000 kg.
+
+## 📑 Project Presentation
+
+For a comprehensive overview of the project, including detailed insights, visualizations, and conclusions, please refer to the full project presentation. You can view or download the PDF using the link below:
+
+[View Project Presentation (PDF)](https://github.com/bilalftaieh/Data-Project/blob/main/project-presentation.pdf)
+
+---
